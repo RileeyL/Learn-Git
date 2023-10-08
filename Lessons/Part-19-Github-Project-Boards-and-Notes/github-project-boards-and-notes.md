@@ -1,3 +1,8 @@
+# Table of Contents
+- [Maximizing Collaboration with GitHub Projects Boards and Notes](#maximizing-collaboration-with-github-project-boards-and-notes)
+
+
+
 # Maximizing Collaboration with GitHub Project Boards and Notes
 
 GitHub Project Management Tools offer a powerful suite of features, and one of the most versatile among them is the ability to organize work with boards and notes. This feature, akin to popular Kanban-style project management, enables teams to visually track progress, manage priorities, and maintain a clear overview of their projects. In this article, we will explore in detail how to make the most of GitHub Project Boards and Notes.
